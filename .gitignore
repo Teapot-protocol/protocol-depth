@@ -1,0 +1,21 @@
+# Compiled COBOL files
+*.so
+*.dll
+*.exe
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*.temp
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build directory
+build/
